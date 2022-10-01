@@ -3,7 +3,7 @@
 
 - ✍ I'm a student of: [Ho Chi Minh city University of Information Technology ](https://www.facebook.com/UIT.Fanpage) (UIT).
 
-- 🌱 I’m currently learning **Cyber Security.**
+- 🌱 I’m currently learning **Information Security.**
 
 
 ## 📫 How to reach me:
