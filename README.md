@@ -23,16 +23,12 @@
   </a>
 </p>
 
-## Skills:
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="MySQL" width="40" height="40"/>&nbsp;
-  
-  
-</div>
+## ⚒️ My languages & tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,c,cs,cpp,cloudflare,css,discord,django,docker,figma,flask,git,github,githubactions,go,graphql,html,instagram,js,jenkins,jquery,latex,linux,md,mongodb,php,postgres,py,pytorch,raspberrypi,regex,solidity,sqlite,stackoverflow,tensorflow,vim,vscode,vue" />
+  </a>
+</p>
 
 <table style="width:100%;">
   <tr>
