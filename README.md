@@ -26,7 +26,7 @@
 ## ⚒️ My languages & tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,c,cs,cpp,cloudflare,css,discord,django,docker,figma,flask,git,github,githubactions,go,graphql,html,instagram,js,jenkins,jquery,latex,linux,md,mongodb,php,postgres,py,pytorch,raspberrypi,regex,solidity,sqlite,stackoverflow,tensorflow,vim,vscode,vue" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,aws,bash,c,cs,cpp,cloudflare,css,discord,django,docker,flask,git,github,githubactions,go,graphql,html,instagram,js,jenkins,jquery,latex,linux,md,mongodb,php,postgres,py,pytorch,regex,solidity,sqlite,stackoverflow,tensorflow,vim,vscode,vue" />
   </a>
 </p>
 
@@ -34,7 +34,6 @@
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatvd1311&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="nhatvd1311" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=nhatvd1311&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Vo%20Duy%20Nhat's%20Github%20Stats" alt="nhatvd1311" width="100%"/>
     </td>
     <td>
       <p align="center"> 
