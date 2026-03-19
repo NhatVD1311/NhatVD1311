@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Duy Nhat</h1>
+<h1 align="center">Hi 👋, I'm Nhat Vo Duy</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-- ✍ I'm a student of: [Ho Chi Minh city University of Information Technology ](https://www.facebook.com/UIT.Fanpage) (UIT).
+- ✍ I have graduated from [Ho Chi Minh city University of Information Technology ](https://www.facebook.com/UIT.Fanpage) (UIT).
 
 - 🌱 I’m a **Security Engineer**
 
